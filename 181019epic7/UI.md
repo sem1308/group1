@@ -1,7 +1,9 @@
+메뉴명을 누르면 이미지로 이동합니다.
+
 # 에픽세븐 메인화면 UI
 ## **프로필**
 ## **메뉴**
-  - 친구[설명](https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1)
+  - 친구([설명](https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1))
     * 내 친구 목록
     * 친구 찾기
     * 보낸 친구 신청
@@ -51,32 +53,32 @@
   - 월광 소환
   - 우정 소환
 ## **업적**
-  - 세 자매 일기
-    * 상세히
-  - 기억의 뿌리 관리원
-  - 원로원
+  - [세 자매 일기](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-1%EC%84%B8%EC%9E%90%EB%A7%A4%EC%9D%BC%EA%B8%B0.jpg)
+    * [상세히](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-1%EC%84%B8%EC%9E%90%EB%A7%A4%EC%9D%BC%EA%B8%B0-%EC%83%81%EC%84%B8%ED%9E%88.jpg)
+  - [기억의 뿌리 관리원](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-2%EA%B8%B0%EC%96%B5%EC%9D%98%EB%BF%8C%EB%A6%AC%EA%B4%80%EB%A6%AC%EC%9B%90.jpg)
+  - [원로원](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-3%EC%9B%90%EB%A1%9C%EC%9B%90.jpg)
   - 상인연합
   - 특무대 팬텀
   - 단검 시카
-  - 전체 지속 효과
+  - [전체 지속 효과](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-%EC%A0%84%EC%B2%B4%EC%A7%80%EC%86%8D%ED%9A%A8%EA%B3%BC.jpg)
 ## **기사단**
-  - 기사단회랑
-    * 기사단관리
-      - 엠블렘
+  - [기사단회랑](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91.jpg)
+    * [기사단관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EA%B8%B0%EC%82%AC%EB%8B%A8%EA%B4%80%EB%A6%AC.jpg)
+      - [엠블렘](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EA%B8%B0%EC%82%AC%EB%8B%A8%EA%B4%80%EB%A6%AC-%EC%97%A0%EB%B8%94%EB%A0%98.jpg)
     * 단원목록
-      - 기사단원
-      - 가입신청
-      - 초대
-      - 탈퇴
-    * 출석보상
-  - 자원지원
-  - 기부
-    * 골드 기부
-    * 용기의 증거 기부
-  - 단원상점
-  - 마스터상점
-  - 주간임무
-## **아레나**
+      - [기사단원](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EB%8B%A8%EC%9B%90%EB%AA%A9%EB%A1%9D-%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90.jpg)
+      - [가입신청](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EB%8B%A8%EC%9B%90%EB%AA%A9%EB%A1%9D-%EA%B0%80%EC%9E%85%EC%8B%A0%EC%B2%AD.jpg)
+      - [초대](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EB%8B%A8%EC%9B%90%EB%AA%A9%EB%A1%9D-%EC%B4%88%EB%8C%80.jpg)
+      - [탈퇴](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EB%8B%A8%EC%9B%90%EB%AA%A9%EB%A1%9D-%ED%83%88%ED%87%B4.jpg)
+    * [출석보상](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EC%B6%9C%EC%84%9D%EB%B3%B4%EC%83%81.jpg)
+  - [자원지원](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-2%EC%9E%90%EC%9B%90%EC%A7%80%EC%9B%90.jpg)
+  - [기부](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-3%EA%B8%B0%EB%B6%80.jpg)
+    * [골드 기부](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-3%EA%B8%B0%EB%B6%80-%EA%B3%A8%EB%93%9C%EA%B8%B0%EB%B6%80.jpg)
+    * [용기의 증거 기부](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-3%EA%B8%B0%EB%B6%80-%EC%9A%A9%EA%B8%B0%EC%9D%98%EC%A6%9D%EA%B1%B0%EA%B8%B0%EB%B6%80.jpg)
+  - [단원상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-4%EB%8B%A8%EC%9B%90%EC%83%81%EC%A0%90.jpg)
+  - [마스터상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-5%EB%A7%88%EC%8A%A4%ED%84%B0%EC%83%81%EC%A0%90.jpg)
+  - [주간임무](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-6%EC%A3%BC%EA%B0%84%EC%9E%84%EB%AC%B4.jpg)
+## **아레나** [(권한 없을 경우 이미지)](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%95%84%EB%A0%88%EB%82%98-%EA%B6%8C%ED%95%9C%EC%97%86%EC%9D%8C.jpg)
   - 대전 상대
   - NPC 대전
   - 전투 기록
@@ -90,7 +92,7 @@
   - 토벌
   - 미궁
   - 도전
-## [**모험**](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/ritania.png)
+## [**모험**](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EB%AA%A8%ED%97%98-%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84.png)
   - 퀘스트
   - 긴급 미션
   - 지역 정보
