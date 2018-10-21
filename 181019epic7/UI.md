@@ -1,7 +1,7 @@
 # 에픽세븐 메인화면 UI
 ## **프로필**
 ## **메뉴**
-  - 친구[설명]https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1)
+  - 친구[설명](https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1)
     * 내 친구 목록
     * 친구 찾기
     * 보낸 친구 신청
