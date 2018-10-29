@@ -55,12 +55,16 @@
 ## **업적**
   - [세 자매 일기](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-1%EC%84%B8%EC%9E%90%EB%A7%A4%EC%9D%BC%EA%B8%B0.jpg)
     * [상세히](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-1%EC%84%B8%EC%9E%90%EB%A7%A4%EC%9D%BC%EA%B8%B0-%EC%83%81%EC%84%B8%ED%9E%88.jpg)
+    * [전체 지속 효과](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-%EC%A0%84%EC%B2%B4%EC%A7%80%EC%86%8D%ED%9A%A8%EA%B3%BC.jpg)
   - [기억의 뿌리 관리원](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-2%EA%B8%B0%EC%96%B5%EC%9D%98%EB%BF%8C%EB%A6%AC%EA%B4%80%EB%A6%AC%EC%9B%90.jpg)
+    * [전체 지속 효과]
   - [원로원](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-3%EC%9B%90%EB%A1%9C%EC%9B%90.jpg)
+    * [전체 지속 효과](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140956_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%9B%90%EB%A1%9C%EC%9B%90-%EC%A0%84%EC%B2%B4%EC%A7%80%EC%86%8D%ED%9A%A8%EA%B3%BC).jpg)
   - [상인연합](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140937_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%83%81%EC%9D%B8%EC%97%B0%ED%95%A9).jpg)
+    * [전체 지속 효과](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140950_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%83%81%EC%9D%B8%EC%97%B0%ED%95%A9-%EC%A0%84%EC%B2%B4%EC%A7%80%EC%86%8D%ED%9A%A8%EA%B3%BC).jpg)
   - [특무대 팬텀](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140943_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%8A%B9%EB%AC%B4%EB%8C%80%20%ED%8C%AC%ED%85%80).jpg)
+    * [전체 지속 효과](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-141001_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%8A%B9%EB%AC%B4%EB%8C%80%20%ED%8C%AC%ED%85%80-%EC%A0%84%EC%B2%B4%EC%A7%80%EC%86%8D%ED%9A%A8%EA%B3%BC).jpg)
   - 단검 시카
-  - [전체 지속 효과](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-%EC%A0%84%EC%B2%B4%EC%A7%80%EC%86%8D%ED%9A%A8%EA%B3%BC.jpg)
 ## **기사단**
   - [기사단회랑](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91.jpg)
     * [기사단관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-1%EA%B8%B0%EC%82%AC%EB%8B%A8%ED%9A%8C%EB%9E%91-%EA%B8%B0%EC%82%AC%EB%8B%A8%EA%B4%80%EB%A6%AC.jpg)
