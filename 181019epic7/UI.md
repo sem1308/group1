@@ -32,15 +32,15 @@
     * 영웅 전송(영웅을 재화와 트레이드)
   - [스킬 강화](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142303_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%8A%A4%ED%82%AC%EA%B0%95%ED%99%94).jpg)
   - [영웅](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-141507_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85).jpg)
-    * 특기
-    * 승급
-    * 각성
+    * [특기](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-152357_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%8A%B9%EA%B8%B0).jpg)
+    * [승급](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-152406_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%8A%B9%EA%B8%89).jpg)
+    * [각성](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-152414_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EA%B0%81%EC%84%B1).jpg)
     * 대표 영웅 설정
-    * 영웅 평가
+    * [영웅 평가](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-152430_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85%ED%8F%89%EA%B0%80).jpg)
     * 전투력
   - [편성](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142339_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%8E%B8%EC%84%B1-%EA%B2%80%EC%83%89%2C%EC%82%AD%EC%A0%9C%2C%EA%B5%90%EC%B2%B4).jpg)
     * 팀 구분
-      - 신수
+      - [신수](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-152734_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%8B%A0%EC%88%98).jpg)
       - 다중 캐릭터
         * 교체
         * 검색
