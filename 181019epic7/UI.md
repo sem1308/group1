@@ -27,31 +27,31 @@
   - 정복 점수
   - 패키지
 ## **영웅**
-  - 영웅 전송
-    * 비우기
-    * 영웅 전송
-  - 스킬 강화
-  - 영웅
+  - [영웅 전송](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142238_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85%EC%A0%84%EC%86%A1).jpg)
+    * 비우기(영웅을 선택창에서 제거)
+    * 영웅 전송(영웅을 재화와 트레이드)
+  - [스킬 강화](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142303_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%8A%A4%ED%82%AC%EA%B0%95%ED%99%94).jpg)
+  - [영웅](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-141507_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85).jpg)
     * 특기
     * 승급
     * 각성
     * 대표 영웅 설정
     * 영웅 평가
     * 전투력
-  - 편성
+  - [편성](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142339_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%8E%B8%EC%84%B1-%EA%B2%80%EC%83%89%2C%EC%82%AD%EC%A0%9C%2C%EA%B5%90%EC%B2%B4).jpg)
     * 팀 구분
       - 신수
       - 다중 캐릭터
         * 교체
         * 검색
         * 제거
-    * 헌신 스킬
-## **회복**
+    * [헌신 스킬](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142346_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%97%8C%EC%8B%A0%EC%8A%A4%ED%82%AC).jpg)
+## [**회복**](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142356_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%9A%8C%EB%B3%B5).jpg)
 ## **소환**
-  - 소환 확률 UP 이벤트
-  - 성역 소환
-  - 월광 소환
-  - 우정 소환
+  - [소환 확률 UP 이벤트](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142407_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%86%8C%ED%99%98%ED%99%95%EB%A5%A0up).jpg)
+  - [성역 소환](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142411_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%84%B1%EC%95%BD%EC%86%8C%ED%99%98).jpg)
+  - [월광 소환](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142415_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%9B%94%EA%B4%91%EC%86%8C%ED%99%98).jpg)
+  - [우정 소환](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-142420_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%9A%B0%EC%A0%95%EC%86%8C%ED%99%98).jpg)
 ## **업적**
   - [세 자매 일기](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-1%EC%84%B8%EC%9E%90%EB%A7%A4%EC%9D%BC%EA%B8%B0.jpg)
     * [상세히](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%97%85%EC%A0%81-1%EC%84%B8%EC%9E%90%EB%A7%A4%EC%9D%BC%EA%B8%B0-%EC%83%81%EC%84%B8%ED%9E%88.jpg)
@@ -82,7 +82,7 @@
   - [단원상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-4%EB%8B%A8%EC%9B%90%EC%83%81%EC%A0%90.jpg)
   - [마스터상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-5%EB%A7%88%EC%8A%A4%ED%84%B0%EC%83%81%EC%A0%90.jpg)
   - [주간임무](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-6%EC%A3%BC%EA%B0%84%EC%9E%84%EB%AC%B4.jpg)
-## **아레나** [(권한 없을 경우 이미지)](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%95%84%EB%A0%88%EB%82%98-%EA%B6%8C%ED%95%9C%EC%97%86%EC%9D%8C.jpg)
+## **아레나** [(권한 없을 경우 이미지)](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%95%84%EB%A0%88%EB%82%98-%EA%B6%8C%ED%95%9C%EC%97%86%EC%9D%8C.jpg)[(권한 있을 경우 이미지)](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140904_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%95%84%EB%A0%88%EB%82%98).jpg)
   - 대전 상대
   - NPC 대전
   - 전투 기록
