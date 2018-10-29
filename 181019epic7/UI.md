@@ -82,7 +82,7 @@
   - [단원상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-4%EB%8B%A8%EC%9B%90%EC%83%81%EC%A0%90.jpg)
   - [마스터상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-5%EB%A7%88%EC%8A%A4%ED%84%B0%EC%83%81%EC%A0%90.jpg)
   - [주간임무](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EA%B8%B0%EC%82%AC%EB%8B%A8-6%EC%A3%BC%EA%B0%84%EC%9E%84%EB%AC%B4.jpg)
-## **아레나** [(권한 없을 경우 이미지)](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%95%84%EB%A0%88%EB%82%98-%EA%B6%8C%ED%95%9C%EC%97%86%EC%9D%8C.jpg)[(권한 있을 경우 이미지)](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140904_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%95%84%EB%A0%88%EB%82%98).jpg)
+## [**아레나**](https://github.com/sem1308/group1/blob/develop/181029epic7/img/Screenshot_20181029-140904_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%95%84%EB%A0%88%EB%82%98).jpg) [(권한 없을 경우 이미지)](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EC%95%84%EB%A0%88%EB%82%98-%EA%B6%8C%ED%95%9C%EC%97%86%EC%9D%8C.jpg)
   - 대전 상대
   - NPC 대전
   - 전투 기록
