@@ -46,6 +46,13 @@
         * 검색
         * 제거
     * [헌신 스킬](https://github.com/sem1308/group1/blob/develop/181019epic7/img_han/Screenshot_20181029-142346_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%97%8C%EC%8B%A0%EC%8A%A4%ED%82%AC).jpg)
+  * 직업
+    * [전사](https://github.com/sem1308/group1/blob/develop/181019epic7/Heros%20Stats/Warrior_statistics.md)
+    * [기사](https://github.com/sem1308/group1/blob/develop/181019epic7/Heros%20Stats/Knight_Statistics.md)
+    * [마도사](https://github.com/sem1308/group1/blob/develop/181019epic7/Heros%20Stats/Wizard_Statistics.md)
+    * [정령사](https://github.com/sem1308/group1/blob/develop/181019epic7/Heros%20Stats/Healer_Statistics.md)
+    * [도적](https://github.com/sem1308/group1/blob/develop/181019epic7/Heros%20Stats/Thief_Statistics.md)
+    * [사수](https://github.com/sem1308/group1/blob/develop/181019epic7/Heros%20Stats/Archer_Statistics.md)
 ## [**회복**](https://github.com/sem1308/group1/blob/develop/181019epic7/img_han/Screenshot_20181029-142356_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%ED%9A%8C%EB%B3%B5).jpg)
 ## **소환**
   - [소환 확률 UP 이벤트](https://github.com/sem1308/group1/blob/develop/181019epic7/img_han/Screenshot_20181029-142407_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%86%8C%ED%99%98%ED%99%95%EB%A5%A0up).jpg)
