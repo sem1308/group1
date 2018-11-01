@@ -17,7 +17,12 @@
   - 설정
     * 계정 설정
     * 게임 설정
-## **비밀상점**
+## **비밀상점** 
+(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%901.jpg)
+(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%902.jpg)
+(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%903.jpg)
+(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%904.jpg)
+
 ## **상점**
   - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)      (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
   - [일반](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
