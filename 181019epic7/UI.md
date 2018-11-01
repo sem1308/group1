@@ -124,9 +124,9 @@
   - [장비](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EC%9E%A5%EB%B9%84.jpg)
   - 아티팩트
   - [잡화](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EC%9E%A1%ED%99%94.jpg)
-## **[인연]**
+## **인연**
   -[1-2clear 아이테르](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B8%EC%97%B0.jpg)
-## **[공지 및 이벤트]**(https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/공지%20및%20이벤트.jpg)
+## [**공지 및 이벤트**](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/공지%20및%20이벤트.jpg)
   - [공지사항](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg)
   - [이벤트](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg)
   - [네이버 카페](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98.jpg)
