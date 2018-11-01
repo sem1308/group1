@@ -12,8 +12,10 @@
     * [서포터 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%84%9C%ED%8F%AC%ED%84%B0%20%EA%B4%80%EB%A6%AC.jpg)
   - 도감
     * 영웅 도감
+     
     * 몬스터 도감
     * 신수 도감
+      * 업데이트중
     * 아티팩트
   - [설정]
     * [계정 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC(%EC%A0%84%EC%B2%B4).jpg)
@@ -52,7 +54,7 @@
     [상급 무기 강화석, 하급투구 강화석, 상급 투구 강화석, 하급 갑옷 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
     [상급 갑옷 강화석, 하급 신발 강화석, 상급 신발 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
   * 패키지
-    * [웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg) --- 
+    * [웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
     * [랭크업 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)    
     * [월정액 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
     * [월소환 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
