@@ -116,19 +116,26 @@
   - 지휘 본부
   - 연금술사의 탑
 ## **우편**
-  - 일반
-  - 운영
-  - 로그
+  - [일반](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9A%B0%ED%8E%B8-%EC%9D%BC%EB%B0%98.jpg)
+  - [운영](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9A%B0%ED%8E%B8-%EC%9A%B4%EC%98%81.jpg)
+  - [로그](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9A%B0%ED%8E%B8-%EB%A1%9C%EA%B7%B8.jpg)
 ## **인벤토리**
   - 착용 장비
-  - 장비
+  - [장비](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EC%9E%A5%EB%B9%84.jpg)
   - 아티팩트
-  - 잡화
-## **인연**
-## 공지 및 이벤트
-  - 공지사항
-  - 이벤트
-  - 네이버 카페
-  - 개발자 노트
-  - STOVE
+  - [잡화](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B8%EB%B2%A4%ED%86%A0%EB%A6%AC-%EC%9E%A1%ED%99%94.jpg)
+## **[인연]**
+  -[1-2clear 아이테르](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B8%EC%97%B0.jpg)
+## **[공지 및 이벤트]**(https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/공지%20및%20이벤트.jpg)
+  - [공지사항](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD.jpg)
+  - [이벤트](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg)
+  - [네이버 카페](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EB%84%A4%EC%9D%B4%EB%B2%84%EC%B9%B4%ED%8E%98.jpg)
+  - [개발자 노트](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%85%B8%ED%8A%B8.jpg)
+  - [STOVE](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/stove.jpg)
 ## 이벤트 패키지
+  - [월정액패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  - [월소환패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  - [웰컴패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9B%B0%EC%BB%B4%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  - [육성패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  -[랭크업패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  -[생명의패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
