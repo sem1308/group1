@@ -29,9 +29,12 @@
   - [비밀상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%90.jpg)
 
 ## **상점**
-  - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
-  - [일반](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
-  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
+  - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)   
+   -[하늘석 한줌, 하늘석 묶음, 하늘석 가방, 하늘석 상자](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)
+  - [ 하늘석 궤짝, 하늘석 금고](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
+  - [일반] 
+   -[책갈피 5개, 책갈피 묶음, 골드 가방, 골드 궤짝](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
+   -[골드 금고, 행동력 70개, 심연 도우미 2개, 미궁의 나침반] (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%983.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%984.jpg)
   - [전승석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D1.jpg)
