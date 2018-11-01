@@ -51,14 +51,14 @@
     [검투사의 갑옷, 검투사의 투구, 검투사의 증표, 하급 무기 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
     [상급 무기 강화석, 하급투구 강화석, 상급 투구 강화석, 하급 갑옷 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
     [상급 갑옷 강화석, 하급 신발 강화석, 상급 신발 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
-  * [패키지]
-   *[웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg) --- 
-   *[랭크업 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)    
-   *[월정액 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   *[월소환 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   *[골드 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A8%EB%93%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   *[생명의 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   *[육성 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  * 패키지
+    * [웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg) --- 
+    * [랭크업 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)    
+    * [월정액 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+    * [월소환 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+    * [골드 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A8%EB%93%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+    * [생명의 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+    * [육성 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
 ## **영웅**
   - [영웅 전송](https://github.com/sem1308/group1/blob/develop/181019epic7/img_han/Screenshot_20181029-142238_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85%EC%A0%84%EC%86%A1).jpg)
     * 비우기(영웅을 선택창에서 제거)
