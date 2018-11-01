@@ -19,13 +19,29 @@
     * 게임 설정
 ## **비밀상점**
 ## **상점**
-  - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)
-  - 일반
-  - 전승석
-  - 우정
-  - 고대동전
-  - 정복 점수
-  - 패키지
+  - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)      (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
+  - [일반](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%983.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%984.jpg)
+  - [전승석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D1.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D2.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D3.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D4.jpg)
+  - [우정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9A%B0%EC%A0%95.jpg)
+  - [고대동전](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%841.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%842.jpg)
+  - [정복 점수](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%981.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
+  - [패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A8%EB%93%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
 ## **영웅**
   - [영웅 전송](https://github.com/sem1308/group1/blob/develop/181019epic7/img_han/Screenshot_20181029-142238_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85%EC%A0%84%EC%86%A1).jpg)
     * 비우기(영웅을 선택창에서 제거)
