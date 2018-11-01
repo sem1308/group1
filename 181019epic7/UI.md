@@ -5,14 +5,10 @@
 ## **메뉴**
   - [메뉴 전체](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%A0%84%EC%B2%B4.jpg )
   - [친구]([설명](https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1))
-    * [내 친구 목록]
-    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%82%B4%20%EC%B9%9C%EA%B5%AC%20%EB%AA%A9%EB%A1%9D.jpg )
-    * [친구 찾기]
-    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%B9%9C%EA%B5%AC%20%EC%B0%BE%EA%B8%B0.jpg)
-    * [보낸 친구 신청]
-    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B3%B4%EB%82%B8%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
-    * [받은 친구 신청]
-    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B0%9B%EC%9D%80%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
+    * [내 친구 목록](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%82%B4%20%EC%B9%9C%EA%B5%AC%20%EB%AA%A9%EB%A1%9D.jpg)
+    * [친구 찾기](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%B9%9C%EA%B5%AC%20%EC%B0%BE%EA%B8%B0.jpg)
+    * [보낸 친구 신청](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B3%B4%EB%82%B8%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
+    * [받은 친구 신청](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B0%9B%EC%9D%80%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
     * [서포터]
      -[서포터 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%84%9C%ED%8F%AC%ED%84%B0%20%EA%B4%80%EB%A6%AC.jpg)
   - 도감
