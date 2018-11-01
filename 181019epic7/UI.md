@@ -9,57 +9,57 @@
     * [친구 찾기](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%B9%9C%EA%B5%AC%20%EC%B0%BE%EA%B8%B0.jpg)
     * [보낸 친구 신청](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B3%B4%EB%82%B8%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
     * [받은 친구 신청](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B0%9B%EC%9D%80%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
-    * [서포터]
-     -[서포터 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%84%9C%ED%8F%AC%ED%84%B0%20%EA%B4%80%EB%A6%AC.jpg)
+    * [서포터 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%84%9C%ED%8F%AC%ED%84%B0%20%EA%B4%80%EB%A6%AC.jpg)
   - 도감
     * 영웅 도감
     * 몬스터 도감
     * 신수 도감
     * 아티팩트
   - [설정]
-    *[계정 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC(%EC%A0%84%EC%B2%B4).jpg)
-     -[계정 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC.jpg)
-     -[로그아웃]
-     -[FAQ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-FAQ.jpg)
-     -[고객 지원](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%A0%EA%B0%9D%EC%A7%80%EC%9B%90.jpg)
-     -[출석 보상](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EC%B6%9C%EC%84%9D%20%EB%B3%B4%EC%83%81.jpg)
-    *[게임 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B2%8C%EC%9E%84%EC%84%A4%EC%A0%95.jpg)
+    * [계정 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC(%EC%A0%84%EC%B2%B4).jpg)
+     - [계정 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC.jpg)
+     - 로그아웃
+     - [FAQ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-FAQ.jpg)
+     - [고객 지원](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%A0%EA%B0%9D%EC%A7%80%EC%9B%90.jpg)
+     - [출석 보상](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EC%B6%9C%EC%84%9D%20%EB%B3%B4%EC%83%81.jpg)
+    * [게임 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B2%8C%EC%9E%84%EC%84%A4%EC%A0%95.jpg)
      
 ## **비밀상점** 
   - [비밀상점](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%90.jpg)
 
 ## **상점**
-  - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)   
-   -[하늘석 한줌, 하늘석 묶음, 하늘석 가방, 하늘석 상자](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)
-   -[ 하늘석 궤짝, 하늘석 금고](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
-  - [일반] 
-   -[책갈피 5개, 책갈피 묶음, 골드 가방, 골드 궤짝](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
-   -[골드 금고, 행동력 70개, 심연 도우미 2개, 미궁의 나침반] (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
-   -[행동력 60개, 깃발 5개, 미궁의 나침반, 영원의 숲의 먼지  ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%983.jpg)
-   -[몽격시간회로](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%984.jpg)
-  - [전승석]
-   -[은하의 책갈피 5개, 영웅 소환권, 머라고라, 기가 판타스마](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D1.jpg)
-   -[하급 아티팩트 강화석, 상급 아티팩트 강화석, 하급 장신구 강화석 세트, 상급 장신구 강화석 세트](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D2.jpg)
-   -[태양장식 펭귄, 화염투구 펭귄, 청록구름 펭귄, 그늘꼬리 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D3.jpg)
-   -[서리사슬 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D4.jpg)
-  - [우정]
-   -[우정의 책갈피,행동력40개, 깃발 5개](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9A%B0%EC%A0%95.jpg)
-  - [고대동전]
-   -[장신구 상자, 하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%841.jpg)
-   -[하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석, 상급 목걸이 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%842.jpg)
-  - [정복 점수]
-   -[미지의 석판, 머라고라 씨앗, 행동력 40개, 검투사의 도끼](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%981.jpg)
-   -[검투사의 갑옷, 검투사의 투구, 검투사의 증표, 하급 무기 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
-   -[상급 무기 강화석, 하급투구 강화석, 상급 투구 강화석, 하급 갑옷 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
-   -[상급 갑옷 강화석, 하급 신발 강화석, 상급 신발 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
-  - [패키지]
-   -[웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg) --- 
-   -[랭크업 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)    
-   -[월정액 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   -[월소환 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   -[골드 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A8%EB%93%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   -[생명의 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-   -[육성 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  * [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)   
+   * [하늘석 한줌, 하늘석 묶음, 하늘석 가방, 하늘석 상자](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)
+   * [ 하늘석 궤짝, 하늘석 금고](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
+  * [일반] 
+   * [책갈피 5개, 책갈피 묶음, 골드 가방, 골드 궤짝]
+   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
+   * [골드 금고, 행동력 70개, 심연 도우미 2개, 미궁의 나침반] (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
+   *[행동력 60개, 깃발 5개, 미궁의 나침반, 영원의 숲의 먼지  ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%983.jpg)
+   * [몽격시간회로](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%984.jpg)
+  * [전승석]
+   *[은하의 책갈피 5개, 영웅 소환권, 머라고라, 기가 판타스마](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D1.jpg)
+   *[하급 아티팩트 강화석, 상급 아티팩트 강화석, 하급 장신구 강화석 세트, 상급 장신구 강화석 세트](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D2.jpg)
+   *[태양장식 펭귄, 화염투구 펭귄, 청록구름 펭귄, 그늘꼬리 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D3.jpg)
+   *[서리사슬 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D4.jpg)
+  * [우정]
+   *[우정의 책갈피,행동력40개, 깃발 5개](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9A%B0%EC%A0%95.jpg)
+  * [고대동전]
+   *[장신구 상자, 하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%841.jpg)
+   *[하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석, 상급 목걸이 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%842.jpg)
+  * [정복 점수]
+   *[미지의 석판, 머라고라 씨앗, 행동력 40개, 검투사의 도끼](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%981.jpg)
+   *[검투사의 갑옷, 검투사의 투구, 검투사의 증표, 하급 무기 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
+   *[상급 무기 강화석, 하급투구 강화석, 상급 투구 강화석, 하급 갑옷 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
+   *[상급 갑옷 강화석, 하급 신발 강화석, 상급 신발 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
+  * [패키지]
+   *[웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg) --- 
+   *[랭크업 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)    
+   *[월정액 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+   *[월소환 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+   *[골드 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A8%EB%93%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+   *[생명의 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+   *[육성 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
 ## **영웅**
   - [영웅 전송](https://github.com/sem1308/group1/blob/develop/181019epic7/img_han/Screenshot_20181029-142238_%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90(%EC%98%81%EC%9B%85%EC%A0%84%EC%86%A1).jpg)
     * 비우기(영웅을 선택창에서 제거)
