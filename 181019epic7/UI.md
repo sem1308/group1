@@ -3,20 +3,32 @@
 # 에픽세븐 메인화면 UI
 ## **프로필**
 ## **메뉴**
-  - 친구([설명](https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1))
-    * 내 친구 목록
-    * 친구 찾기
-    * 보낸 친구 신청
-    * 받은 친구 신청
-    * 서포터
+  - [메뉴 전체](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%A0%84%EC%B2%B4.jpg)
+  - [친구]([설명](https://namu.wiki/w/%EC%97%90%ED%94%BD%EC%84%B8%EB%B8%90/%EC%8B%9C%EC%8A%A4%ED%85%9C#s-4.1))
+    * [내 친구 목록]
+    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%82%B4%20%EC%B9%9C%EA%B5%AC%20%EB%AA%A9%EB%A1%9D.jpg)
+    * [친구 찾기]
+    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%B9%9C%EA%B5%AC%20%EC%B0%BE%EA%B8%B0.jpg)
+    * [보낸 친구 신청]
+    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B3%B4%EB%82%B8%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
+    * [받은 친구 신청]
+    (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EB%B0%9B%EC%9D%80%20%EC%B9%9C%EA%B5%AC%20%EC%8B%A0%EC%B2%AD.jpg)
+    * [서포터]
+     -[서포터 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%84%9C%ED%8F%AC%ED%84%B0%20%EA%B4%80%EB%A6%AC.jpg)
   - 도감
     * 영웅 도감
     * 몬스터 도감
     * 신수 도감
     * 아티팩트
-  - 설정
-    * 계정 설정
-    * 게임 설정
+  - [설정]
+    *[계정 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC(%EC%A0%84%EC%B2%B4).jpg)
+     -[계정 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%84%EC%A0%95%EA%B4%80%EB%A6%AC.jpg)
+     -[로그아웃]
+     -[FAQ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-FAQ.jpg)
+     -[고객 지원](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B3%A0%EA%B0%9D%EC%A7%80%EC%9B%90.jpg)
+     -[출석 보상](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EC%B6%9C%EC%84%9D%20%EB%B3%B4%EC%83%81.jpg)
+    *[게임 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B2%8C%EC%9E%84%EC%84%A4%EC%A0%95.jpg)
+     
 ## **비밀상점** 
 (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%901.jpg)
 (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%902.jpg)
