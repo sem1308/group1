@@ -45,12 +45,12 @@
     * [우정의 책갈피,행동력40개, 깃발 5개](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9A%B0%EC%A0%95.jpg)
   * 고대동전
     * [장신구 상자, 하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%841.jpg)
-    [하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석, 상급 목걸이 강화석(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%842.jpg)
+    [하급 반지 강화석, 상급 반지 강화석, 하급 목걸이 강화석, 상급 목걸이 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A0%EB%8C%80%EB%8F%99%EC%A0%842.jpg)
   * 정복 점수
-    * [미지의 석판, 머라고라 씨앗, 행동력 40개, 검투사의 도끼(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%981.jpg)
-   [검투사의 갑옷, 검투사의 투구, 검투사의 증표, 하급 무기 강화석(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
-   [상급 무기 강화석, 하급투구 강화석, 상급 투구 강화석, 하급 갑옷 강화석(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
-   [상급 갑옷 강화석, 하급 신발 강화석, 상급 신발 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
+    * [미지의 석판, 머라고라 씨앗, 행동력 40개, 검투사의 도끼](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%981.jpg)
+    [검투사의 갑옷, 검투사의 투구, 검투사의 증표, 하급 무기 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
+    [상급 무기 강화석, 하급투구 강화석, 상급 투구 강화석, 하급 갑옷 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
+    [상급 갑옷 강화석, 하급 신발 강화석, 상급 신발 강화석](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
   * [패키지]
    *[웰컴 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg) --- 
    *[랭크업 패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)    
