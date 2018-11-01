@@ -29,19 +29,18 @@
 
 ## **상점**
   * [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)   
-   * [하늘석 한줌, 하늘석 묶음, 하늘석 가방, 하늘석 상자](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)
-   * [ 하늘석 궤짝, 하늘석 금고](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
+    * [하늘석 한줌, 하늘석 묶음, 하늘석 가방, 하늘석 상자](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)
+    [ 하늘석 궤짝, 하늘석 금고](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
   * [일반] 
-   * [책갈피 5개, 책갈피 묶음, 골드 가방, 골드 궤짝]
-   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
-   * [골드 금고, 행동력 70개, 심연 도우미 2개, 미궁의 나침반] (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
-   *[행동력 60개, 깃발 5개, 미궁의 나침반, 영원의 숲의 먼지  ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%983.jpg)
-   * [몽격시간회로](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%984.jpg)
+    * [책갈피 5개, 책갈피 묶음, 골드 가방, 골드 궤짝](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%981.jpg)
+    [골드 금고, 행동력 70개, 심연 도우미 2개, 미궁의 나침반](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%982.jpg)
+    [행동력 60개, 깃발 5개, 미궁의 나침반, 영원의 숲의 먼지  ](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%983.jpg)
+    [몽격시간회로](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9D%BC%EB%B0%984.jpg)
   * [전승석]
-   *[은하의 책갈피 5개, 영웅 소환권, 머라고라, 기가 판타스마](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D1.jpg)
-   *[하급 아티팩트 강화석, 상급 아티팩트 강화석, 하급 장신구 강화석 세트, 상급 장신구 강화석 세트](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D2.jpg)
-   *[태양장식 펭귄, 화염투구 펭귄, 청록구름 펭귄, 그늘꼬리 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D3.jpg)
-   *[서리사슬 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D4.jpg)
+    * [은하의 책갈피 5개, 영웅 소환권, 머라고라, 기가 판타스마](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D1.jpg)
+    [하급 아티팩트 강화석, 상급 아티팩트 강화석, 하급 장신구 강화석 세트, 상급 장신구 강화석 세트](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D2.jpg)
+    [태양장식 펭귄, 화염투구 펭귄, 청록구름 펭귄, 그늘꼬리 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D3.jpg)
+    [서리사슬 펭귄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%84%EC%8A%B9%EC%84%9D4.jpg)
   * [우정]
    *[우정의 책갈피,행동력40개, 깃발 5개](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9A%B0%EC%A0%95.jpg)
   * [고대동전]
