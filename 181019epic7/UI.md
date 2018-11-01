@@ -26,7 +26,7 @@
     *[게임 설정](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%98%B5%EC%85%98-%EA%B2%8C%EC%9E%84%EC%84%A4%EC%A0%95.jpg)
      
 ## **비밀상점** 
-*[비밀상점 아이템](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%901.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%902.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%903.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%904.jpg)
+   *[비밀상점 아이템](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%901.jpg,https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%902.jpg,https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%903.jpg,https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%B9%84%EB%B0%80%EC%83%81%EC%A0%904.jpg)
 
 ## **상점**
   - [하늘석](https://github.com/sem1308/group1/blob/master/181019epic7/cashtable.md)   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D1.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%ED%95%98%EB%8A%98%EC%84%9D2.jpg)
@@ -45,10 +45,7 @@
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%982.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%983.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%A0%95%EB%B3%B5%20%EC%A0%90%EC%88%984.jpg)
-  - [패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
-  (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
+  - [패키지](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%B0%EC%BB%B4%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EB%9E%AD%ED%81%AC%EC%97%85%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%A0%95%EC%95%A1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)(https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9B%94%EC%86%8C%ED%99%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EA%B3%A8%EB%93%9C%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%83%9D%EB%AA%85%EC%9D%98%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
   (https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EC%83%81%EC%A0%90-%EC%9C%A1%EC%84%B1%20%ED%8C%A8%ED%82%A4%EC%A7%80.jpg)
