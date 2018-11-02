@@ -12,7 +12,12 @@
     * [서포터 관리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EC%B9%9C%EA%B5%AC-%EC%84%9C%ED%8F%AC%ED%84%B0%20%EA%B4%80%EB%A6%AC.jpg)
   - 도감
     * 영웅 도감
-     
+     * 별의 계보
+     * 리타니아 대륙
+     * 사멸의 땅
+     * 에우레카
+     * 외부의 땅
+     * 
     * 몬스터 도감
     * 신수 도감
       * 업데이트중
