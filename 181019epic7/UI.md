@@ -18,13 +18,13 @@
         * [빌트레드, 아이테르, 알렉사, 엘슨, 마야, 크로제, 로리나](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)1.jpg), [아카테스, 클라릿사, 랏츠, 안젤리카, 몽모랑시, 코르부스, 에노트, 제나, 헤이즐](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)2.jpg),[카린 쥬디스, 아젤리아, 리코리스, 제라토, 슈리, 세릴라, 아들라이, 캐롯](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)3.jpg), [바사르, 링, 아밍, 쿠루리, 미르사, 셀레스트, 디에리아, 리마](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)4.jpg), [샬롯, 바알&세잔, 콜리, 실크, 키리스, 크라우, 타라노르 왕궁병사, 타라노르 근위부대원](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)5.jpg), 
 [메르세데스, 라비, 세크레트, 필리스, 오틸리어, 헤이스트, 아로웰, 헬가, 도리스, 완다](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)6.jpg), [카르투하, 퍼지스, 루지드, 무카차, 제크토, 시더, 딩고, 레오 도미니엘, 스벤, 군터, 도살부대원, 일리오스교 도끼병](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%20%EB%8C%80%EB%A5%99)8.jpg)   
       * 사멸의 땅
-        * 세즈, 아라민타, 카마인로즈, 미스티체인, 펄호라이즌, 글루미레인, 레퀴엠로어 
+        * [세즈, 아라민타, 카마인로즈, 미스티체인, 펄호라이즌, 글루미레인, 레퀴엠로어](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%82%AC%EB%A9%B8%EC%9D%98%20%EB%95%85).jpg)
       * 에우레카
-        * 로제, 유피네, 루나, 네무나스, 타이윈, 로만, 클로에
-      * 외부의 땅
-        * 수린, 켄, 휴라두
+        * [로제, 유피네, 루나, 네무나스, 타이윈, 로만, 클로에](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%97%90%EC%9A%B0%EB%A0%88%EC%B9%B4).jpg)
+        * 외부의 땅
+         * [수린, 켄, 휴라두](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%99%B8%EB%B6%80%EC%9D%98%20%EB%95%85).jpg)
       * 월광
-        * 그림자 로제, 방랑자 실크, 홍염의 아밍, 혈검 카린, 슈팅스타 아카테스, 구도자 아이테르, 암살자 콜리, 대장 퍼지스, 도전자 도미니엘, 무투가 켄, 집행관 빌트레드, 어두므이 코르부스, 심판자 키세, 빛의 루엘, 보조형 랏츠, 전투형 마야, 외우주의 메르세데스, 암살자 카르투하, 주시자 슈리, 환영의 테네브리아
+        * [그림자 로제, 방랑자 실크, 홍염의 아밍, 혈검 카린, 슈팅스타 아카테스, 구도자 아이테르, 암살자 콜리, 대장 퍼지스, 도전자 도미니엘, 무투가 켄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)1.jpg), [집행관 빌트레드, 어두므이 코르부스, 심판자 키세, 빛의 루엘, 보조형 랏츠, 전투형 마야](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)2.jpg), [외우주의 메르세데스, 암살자 카르투하, 주시자 슈리, 환영의 테네브리아](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)3.jpg
       * 전직
         * 매사냥꾼 쿠루리, 지휘관 로리나
 
