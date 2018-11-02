@@ -145,9 +145,9 @@
   - 난이도 변경
   - 마지막 전투
 ## **성역**
-  - 오르비스의 심장
-  - 강철 공방
-  - 정령의 숲
+  - [오르비스의 심장](https://github.com/sem1308/group1/blob/master/181019epic7/%EC%98%A4%EB%A5%B4%EB%B9%84%EC%8A%A4.md)
+  - [강철 공방](https://github.com/sem1308/group1/blob/master/181019epic7/%EA%B0%95%EC%B2%A0%EA%B3%B5%EB%B0%A9.md)
+  - [정령의 숲](https://github.com/sem1308/group1/blob/master/181019epic7/%EC%A0%95%EB%A0%B9%EC%9D%98%EC%88%B2.md)
   - [지휘 본부](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%A7%80%ED%9C%98%EB%B3%B8%EB%B6%80.jpeg)
   - 연금술사의 탑
 ## **우편**
