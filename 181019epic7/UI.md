@@ -24,7 +24,7 @@
         * 외부의 땅
          * [수린, 켄, 휴라두](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%99%B8%EB%B6%80%EC%9D%98%20%EB%95%85).jpg)
       * 월광
-        * [그림자 로제, 방랑자 실크, 홍염의 아밍, 혈검 카린, 슈팅스타 아카테스, 구도자 아이테르, 암살자 콜리, 대장 퍼지스, 도전자 도미니엘, 무투가 켄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)1.jpg), [집행관 빌트레드, 어두므이 코르부스, 심판자 키세, 빛의 루엘, 보조형 랏츠, 전투형 마야](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)2.jpg), [외우주의 메르세데스, 암살자 카르투하, 주시자 슈리, 환영의 테네브리아](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)3.jpg)
+        * [그림자 로제, 방랑자 실크, 홍염의 아밍, 혈검 카린, 슈팅스타 아카테스, 구도자 아이테르, 암살자 콜리, 대장 퍼지스, 도전자 도미니엘, 무투가 켄](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)1.jpg), [집행관 빌트레드, 어둠의 코르부스, 심판자 키세, 빛의 루엘, 보조형 랏츠, 전투형 마야](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)2.jpg), [외우주의 메르세데스, 암살자 카르투하, 주시자 슈리, 환영의 테네브리아](https://github.com/sem1308/group1/blob/master/181019epic7/img_leehw/%EB%A9%94%EB%89%B4-%EB%8F%84%EA%B0%90-%EC%98%81%EC%9B%85%20%EB%8F%84%EA%B0%90(%EC%9B%94%EA%B4%91)3.jpg)
 
     * 몬스터 도감
       * 일리오스교
