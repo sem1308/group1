@@ -132,23 +132,23 @@
   - 통합 랭킹
   - 아레나 스토리
 ## **전투**
-  - 서브 스토리
-  - 정령의 제단
-  - 심연
-  - 토벌
-  - 미궁
+  - [서브 스토리](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%84%9C%EB%B8%8C%EC%8A%A4%ED%86%A0%EB%A6%AC.jpg)
+  - [정령의 제단](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%A0%95%EB%A0%B9%EC%9D%98%20%EC%A0%9C%EB%8B%A8.png)
+  - [심연](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%8B%AC%EC%97%B0.jpg)
+  - [토벌](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%84%B1%EC%97%AD%20%EC%8A%A4%EC%83%B7.jpg)
+  - [미궁](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EB%AF%B8%EA%B6%81.png)
   - 도전
 ## [**모험**](https://github.com/sem1308/group1/blob/master/181019epic7/img_noh/%EB%AA%A8%ED%97%98-%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84.png)
-  - 퀘스트
+  - [퀘스트](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%ED%80%98%EC%8A%A4%ED%8A%B8.jpg)
   - 긴급 미션
-  - 지역 정보
+  - [지역 정보](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%A7%80%EC%97%AD%EC%A0%95%EB%B3%B4%20-%20%EC%A0%95%EB%B3%B4.jpg)
   - 난이도 변경
   - 마지막 전투
 ## **성역**
   - 오르비스의 심장
   - 강철 공방
   - 정령의 숲
-  - 지휘 본부
+  - [지휘 본부](https://github.com/sem1308/group1/blob/master/181019epic7/img_leesm/%EC%A7%80%ED%9C%98%EB%B3%B8%EB%B6%80.jpeg)
   - 연금술사의 탑
 ## **우편**
   - [일반](https://github.com/sem1308/group1/blob/master/181019epic7/img_kimjw/%EC%9A%B0%ED%8E%B8-%EC%9D%BC%EB%B0%98.jpg)
