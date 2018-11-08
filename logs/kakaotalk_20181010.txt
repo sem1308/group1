@@ -1,0 +1,4 @@
+[노일호] [오후 6:05] riohoekman/creativeengineeringdesign - https://github.com/riohoekman/creativeengineeringdesign?files=1
+[노일호] [오후 6:05] 여기 예전 발표준비자료랑 pt랑 회의록 모아뒀어요
+[노일호] [오후 6:06] issue만들고 워드를 md정리후 커밋해주시길~
+[노일호] [오후 6:08] 발표준비자료는 아마 각자 푸시해야되는걸로??들은것 같아요 사람별로 따로 브랜치파서 합치는걸루
